@@ -2,7 +2,7 @@ module.exports = {
 	discord: {
 		clientID: "",
 		clientSecret: "",
-		clientToken: "",
+		clientToken: "NjU2MDQ0NjYxMTgxMjUxNTk0.XfdGTw.s7FO7wVTBh0zs0a4mEX_6AvHZIg",
 	},
 	tokens: {
 		discordBotsOrg: "",
